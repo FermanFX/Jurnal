@@ -17,7 +17,7 @@ body{
     div{
         width: 90%;
        border: 3px solid purple;
-       height: 25em; 
+       height: 40em; 
        background-repeat: no-repeat;
        background-position: center;
        background-size: contain;
@@ -27,15 +27,21 @@ body{
         margin-top: 1em;
     }
     .alti-c{
-        background-image: url(./);
+        background-image: url(./6c.jpg);
+    }
+    .alti-c2{
+        background-image: url(./6c-2.jpg);
     }
     .alti-b{
+        background-image: url(./6b.jpg);
+    }
+    .alti-b2{
+        background-image: url(./6b-2.jpg);
+    }
+    .yeddi-a{
         background-image: url(./);
     }
-    .yeddi-a-n{
-        background-image: url(./);
-    }
-    .yeddi-a-pr{
+    .yeddi-a2{
         background-image: url(./);
     }
     .on-a-n{
@@ -63,27 +69,27 @@ body{
         background-image: url(./10a-pr2.jpg);
     }
     .onbir-a-n{
-        background-image: url(./);
+        background-image: url(./11a-n.jpg);
     }
     .onbir-a-n2{
-        background-image: url(./);
+        background-image: url(./11a-n2.jpg);
     }
     .onbir-a-pr{
-        background-image: url(./);
+        background-image: url(./11a-pr.jpg);
     }
     .onbir-a-pr2{
-        background-image: url(./);
+        background-image: url(./11a-pr2.jpg);
     }
     .onbir-b-n{
-        background-image: url(./);
+        background-image: url(./11b-n.jpg);
     }
     .onbir-b-n2{
-        background-image: url(./);
+        background-image: url(./11b-n2.jpg);
     }
     .onbir-b-pr{
-        background-image: url(./);
+        background-image: url(./11b-pr.jpg);
     }
     .onbir-b-pr2{
-        background-image: url(./);
+        background-image: url(./11b-pr2.jpg);
     }
 }
